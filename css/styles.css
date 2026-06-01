@@ -1,11 +1,11 @@
 /* ============================================================
-   Rapid Locksmiths — Classic Locksmith Template
+   Fast Locksmiths — Classic Locksmith Template
    Design: Arkdin-inspired
    ============================================================ */
 
 /* ---------- Design Tokens ---------- */
 :root {
-  --color-accent: #1646D2;
+  --color-accent: #F26D07;
   --color-accent-hover: #0F3399;
   --color-heading: #010f34;
   --color-body: #788094;
@@ -977,7 +977,7 @@ p:last-child {
   }
 }
 
-/* ---------- SERVICES ---------- */
+/* ---------- SERVicES ---------- */
 #services {
   background: var(--color-white);
 }
